@@ -20,6 +20,7 @@ GitHub: ElielBright
 
 ⚡ Fun fact: I love baking pastries in my free time!
 
+
 Table of Contents
 
 About
@@ -33,6 +34,7 @@ Projects
 Usage
 
 Contact
+
 
 About
 
