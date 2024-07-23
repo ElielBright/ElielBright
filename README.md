@@ -81,7 +81,7 @@ Explore the website to see my work and skills. Contact me for any inquiries or c
 
 Contact
 
-Email: elieldanwfield@gmail.com
+Email: elielkwesi@gmail.com
 
 LinkedIn: Eliel Bright
 
