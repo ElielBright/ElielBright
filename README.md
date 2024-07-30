@@ -10,7 +10,7 @@ About Me
 
 📫 How to reach me:
 
-Email: elieldanwfield@gmail.com
+Email: elielkwesi@gmail.com
 
 LinkedIn: Eliel Bright
 
