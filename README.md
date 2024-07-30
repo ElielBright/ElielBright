@@ -1,9 +1,9 @@
-Eliel Bright's Portfolio
+Eliel Kwesi's Portfolio
 Welcome to my portfolio repository! This repository contains the source code for my personal portfolio, showcasing my projects, skills, and contact information.
 
 About Me
 
-👋 Hi, I’m @ElielBright
+👋 Hi, I’m @ElielKwesi
 👀 I’m interested in front-end development, creating responsive and visually appealing websites, and exploring new web technologies.
 🌱 I’m currently learning advanced React techniques and improving my backend development skills.
 💞️ I’m looking to collaborate on projects that involve HTML, CSS, Sass, JavaScript, and React.
@@ -38,7 +38,7 @@ Contact
 
 About
 
-I am Eliel Bright, a front-end developer with expertise in HTML, CSS, Sass, JavaScript, and React. I specialize in creating visually appealing and responsive websites for small and medium-scale businesses. This portfolio showcases my work and skills.
+I am Eliel Kwesi, a front-end developer with expertise in HTML, CSS, Sass, JavaScript, and React. I specialize in creating visually appealing and responsive websites for small and medium-scale businesses. This portfolio showcases my work and skills.
 
 Features
 
