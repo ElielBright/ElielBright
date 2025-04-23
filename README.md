@@ -3,7 +3,7 @@ Welcome to my portfolio repository! This repository contains the source code for
 About Me
 
 👋 Hi, I’m Eliel Kwesi!
-👀 I’m passionate about full-stack development, creating responsive and visually appealing websites and apps, and exploring the latest in web technologies.
+👀 I’m a passionate full-stack developer with a love for Robotics and AI. creating responsive and visually appealing websites and apps, and exploring the latest in web technologies.
 🌱 I’m currently enhancing my expertise in advanced React techniques, improving my backend development skills, and building scalable full-stack applications.
 💞️ I’m excited to collaborate on projects involving HTML, CSS, Sass, JavaScript, and React.
 😄 Pronouns: He/Him
