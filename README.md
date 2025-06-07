@@ -1,7 +1,7 @@
-#Eliel Kwesi's Portfolio#
+Eliel Kwesi's Portfolio
 
 
-#About Me#
+About Me
 
 👋 Hi, I’m Eliel Kwesi!
 
@@ -22,7 +22,7 @@ latest technologies for both hardware and software solutions.
 
 
 
-📫 #How to reach me:#
+📫 How to reach me:
 
 Email: brighteliel@gmail.com
 
