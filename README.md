@@ -1,31 +1,81 @@
-Eliel Kwesi's Portfolio
+# 👋 Hi, I’m Eliel Kwesi
 
+🚀 Full-Stack Developer | AI Engineer | Robotics Educator  
 
-About Me
+I build AI-powered web and mobile applications that solve real problems — from conversational systems to real-time collaborative tools.
 
-👋 Hi, I’m Eliel Kwesi!
+---
 
-👀 I’m afull-stack developer with a love for Robotics and AI. creating responsive and visually appealing websites, apps, and being a robotics instructor, I like exploring the 
-latest technologies for both hardware and software solutions.
+## 💡 What I Do
 
+- ⚡ Build full-stack applications using **TypeScript, React, and Node.js**
+- 🤖 Develop **AI-powered systems** (RAG, NLP, automation, voice AI)
+- 🔌 Integrate platforms like **Slack, APIs, and real-time systems (WebSockets)**
+- 🧠 Design systems that simplify complex tech into intuitive user experiences
 
-💞️ I’m excited to collaborate on projects involving Full-Stack development, AI and Robotics.
+---
 
+## 🛠️ Key Projects
 
-😄 Pronouns: He/Him
+- 🧠 **AI Slack Assistant**  
+  Conversational AI system with real-time workflows and automation
 
-⚡ Fun Fact: I like watching basketball
+- 📚 **AI Learning Tools (EdTech)**  
+  Built AI-powered tools including:
+  - Flashcard generator from slides (RAG system)
+  - AI game generator for learning
 
-💡 Tech Enthusiast: I am deeply interested in research, especially in fields like renewable technologies and innovative coding practices.
+- 🏆 **CardioAR (Hackathon Winner)**  
+  AI-powered AR platform for interactive learning experiences
 
-📚 Teaching & Volunteering: I enjoy teaching robotics and AI to kids and teens I also like teaching people who show interest, especially in coding, and regularly participate in hackathons and volunteering activities.
+- 🎙️ **Voice AI App**  
+  Desktop app using Coqui AI + Fish Audio for voice cloning & synthesis
 
+- 🛒 **E-commerce Platforms**  
+  Full-stack apps including PWA + mobile (React Native)
 
+---
 
-📫 How to reach me:
+## 🧰 Tech Stack
 
-Email: brighteliel@gmail.com
+**Languages:**  
+Python, JavaScript, TypeScript, C++
 
-LinkedIn: Eliel Bright
+**Frontend:**  
+React, React Native, Vite
 
-GitHub: ElielBright
+**Backend:**  
+Node.js, Express.js
+
+**AI/ML:**  
+RAG, NLP, AI Agents, Automation Systems
+
+**Databases:**  
+MongoDB, PostgreSQL, Firebase
+
+**Tools & DevOps:**  
+Docker, AWS, Git, Linux
+
+---
+
+## 🌍 What I Care About
+
+- Making AI **accessible and useful** to real people  
+- Building tools for **education and productivity**  
+- Teaching and mentoring the next generation in tech  
+
+---
+
+## 🎓 Beyond Code
+
+- 👨‍🏫 Robotics & AI Instructor (teaching students hands-on skills)
+- 🏆 Hackathon winner (Devpost – CardioAR)
+- 📚 Taught React to 3000+ students
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: brighteliel@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/eliel-agbeke  
+- 🌐 Portfolio: https://elielsportfolio.vercel.app  
