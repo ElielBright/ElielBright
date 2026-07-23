@@ -1,81 +1,84 @@
-# 👋 Hi, I’m Eliel Kwesi
+# 👋 Hi, I'm Eliel Kwesi
 
-🚀 Full-Stack Developer | AI Engineer | Robotics Educator  
+🚀 **Full-Stack Developer** | I build web, mobile, and AI-powered products
 
-I build AI-powered web and mobile applications that solve real problems — from conversational systems to real-time collaborative tools.
+I design and ship complete products end to end — marketplaces, logistics systems, e-commerce, and edtech platforms — and I integrate AI (RAG, LLMs, agents) when a product calls for it.
 
 ---
 
 ## 💡 What I Do
 
-- ⚡ Build full-stack applications using **TypeScript, React, and Node.js**
-- 🤖 Develop **AI-powered systems** (RAG, NLP, automation, voice AI)
-- 🔌 Integrate platforms like **Slack, APIs, and real-time systems (WebSockets)**
-- 🧠 Design systems that simplify complex tech into intuitive user experiences
+- ⚡ Build full-stack applications with **TypeScript, React, Next.js, and Node.js**
+- 📱 Ship cross-platform mobile apps with **React Native** and PWAs
+- 🤖 Develop **AI systems** — RAG pipelines, LLM integrations, autonomous agents, voice AI
+- 🔌 Integrate platforms and APIs — **Slack, webhooks, WebSockets, real-time systems**
+- 🚀 Own delivery end to end: architecture → build → deploy → maintain
 
 ---
 
-## 🛠️ Key Projects
+## 🛠️ Featured Projects
 
-- 🧠 **AI Slack Assistant**  
-  Conversational AI system with real-time workflows and automation
+### 🤖 AI & Agents
+- **Ignis Claw** — AI coding agent built as a **VS Code extension**, bringing autonomous code generation and in-editor assistance into the developer workflow
+- **Aura** — personal AI assistant handling voice interaction, dynamic tool calling, and multi-step task automation across connected services
+- **Self-Hosted Assistant Bot** — autonomous agent that drafts and replies to emails and WhatsApp messages, administered from Telegram
+- **FlashLearn** — RAG app that turns documents (PDF, DOCX, PPT) into interactive study flashcards with offline export
+- **Podcast Studio** — AI voice-cloning and synthesis platform for audio production
 
-- 📚 **AI Learning Tools (EdTech)**  
-  Built AI-powered tools including:
-  - Flashcard generator from slides (RAG system)
-  - AI game generator for learning
+### 🏗️ Commercial Platforms
+- **Yemexcart** — three-sided delivery marketplace with an integrated e-commerce module
+- **KASA** — web-based logistics / transportation management system for Dubai-to-Ghana freight
+- **ENQOR** — edtech platform connecting students with certified teachers for exam prep
+- **CarKits** — e-commerce PWA for automotive parts sales and lookup (Next.js, Firestore)
+- **Live-Streaming Commerce** — social selling platform with real-time video and in-stream purchasing
 
-- 🏆 **CardioAR (Hackathon Winner)**  
-  AI-powered AR platform for interactive learning experiences
-
-- 🎙️ **Voice AI App**  
-  Desktop app using Coqui AI + Fish Audio for voice cloning & synthesis
-
-- 🛒 **E-commerce Platforms**  
-  Full-stack apps including PWA + mobile (React Native)
+### 🏆 Recognition
+- **CardioAR** — Bitmark / Devpost **Hackathon Winner**: AI-powered AR anatomy learning platform
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:**  
-Python, JavaScript, TypeScript, C++
+**Languages**
+Python · JavaScript · TypeScript · C++
 
-**Frontend:**  
-React, React Native, Vite
+**Frontend**
+React · Next.js · React Native · Vite
 
-**Backend:**  
-Node.js, Express.js
+**Backend**
+Node.js · Express · REST APIs · WebSockets
 
-**AI/ML:**  
-RAG, NLP, AI Agents, Automation Systems
+**AI / ML**
+RAG · LLMs · AI Agents · Tool Calling · NLP · Vector Databases (pgvector) · Voice Synthesis
 
-**Databases:**  
-MongoDB, PostgreSQL, Firebase
+**Databases**
+PostgreSQL · Supabase · Firebase · Firestore
 
-**Tools & DevOps:**  
-Docker, AWS, Git, Linux
+**Tools & DevOps**
+Docker · Git · Linux · CI/CD · AWS · Google Cloud · Electron
 
 ---
 
 ## 🌍 What I Care About
 
-- Making AI **accessible and useful** to real people  
-- Building tools for **education and productivity**  
-- Teaching and mentoring the next generation in tech  
+- Making AI **accessible and genuinely useful** to real people
+- Building tools for **education and productivity**
+- Shipping products that solve real problems, not demos
 
 ---
 
 ## 🎓 Beyond Code
 
-- 👨‍🏫 Robotics & AI Instructor (teaching students hands-on skills)
-- 🏆 Hackathon winner (Devpost – CardioAR)
-- 📚 Taught React to 3000+ students
+- 👨‍🏫 STEM & Robotics instructor — hands-on engineering with Arduino
+- 🏆 Hackathon winner (Devpost — CardioAR)
+- 📚 Taught React to **3,000+ students**
+- 🎮 Build arcade games for fun with Unity and Godot
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-- 📧 Email: brighteliel@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/eliel-agbeke  
-- 🌐 Portfolio: https://elielsportfolio.vercel.app  
+- 📧 **Email:** brighteliel@gmail.com
+- 🌐 **Portfolio:** https://elielsportfolio.vercel.app
+
+> 💼 Open to full-time remote roles — full-stack and AI engineering.
