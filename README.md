@@ -33,8 +33,9 @@ I design and ship complete products end to end — marketplaces, logistics syste
 - **Live-Streaming Commerce** — social selling platform with real-time video and in-stream purchasing
 
 ### 🏆 Recognition
-- **CardioAR** — Devpost Hackathon Winner: AI-powered AR anatomy learning platform
-  **Bitz** (Bitmark Hackathon) Winner — AI learning platform built on the Bitmark standard
+- **CardioAR** — **Devpost Hackathon Winner**: AI-powered AR anatomy learning platform
+- **Bitz (Bitmark Hackathon) Winner** — AI learning platform built on the Bitmark standard
+
 ---
 
 ## 🧰 Tech Stack
@@ -70,7 +71,7 @@ Docker · Git · Linux · CI/CD · AWS · Google Cloud · Electron
 ## 🎓 Beyond Code
 
 - 👨‍🏫 STEM & Robotics instructor — hands-on engineering with Arduino
-- 🏆 Hackathon winner (Devpost — CardioAR)
+- 🏆 Two-time hackathon winner — Devpost (CardioAR) and the Bitmark Hackathon (Bitz)
 - 📚 Taught React to **3,000+ students**
 - 🎮 Build arcade games for fun with Unity and Godot
 
