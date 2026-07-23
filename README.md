@@ -33,8 +33,8 @@ I design and ship complete products end to end — marketplaces, logistics syste
 - **Live-Streaming Commerce** — social selling platform with real-time video and in-stream purchasing
 
 ### 🏆 Recognition
-- **CardioAR** — Bitmark / Devpost **Hackathon Winner**: AI-powered AR anatomy learning platform
-
+- **CardioAR** — Devpost Hackathon Winner: AI-powered AR anatomy learning platform
+  **Bitz** (Bitmark Hackathon) Winner — AI learning platform built on the Bitmark standard
 ---
 
 ## 🧰 Tech Stack
